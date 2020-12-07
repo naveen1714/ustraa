@@ -1,0 +1,78 @@
+.MuiPaper-elevation4 {
+    box-shadow: none !important;
+}
+
+.MuiTab-wrapper{
+    color: white;
+    font-size: 0.8rem;
+    font-family: Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.jss9{
+    background-color: grey !important;
+}
+
+.MuiTab-textColorPrimary.Mui-selected{
+    color: slategrey !important;
+}
+
+.MuiTab-root{
+    line-height: 4 !important;
+    padding: 0px !important;
+}
+
+.MuiGrid-spacing-xs-4{
+    padding-top: 2rem;
+}
+
+.view__more__button{
+    box-shadow:
+     rgba(0, 0, 0, 0) 0px 2px 4px -1px,
+     rgba(0, 0, 0, 0.1) 0px 4px 5px 0px, 
+     rgba(0, 0, 0, 0.1) 0px 1px 10px 0px;
+     width: 100%;
+     font-family: Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+
+/* Category select styles */
+.MuiOutlinedInput-notchedOutline{
+    border-color: transparent !important;
+    box-shadow:
+     rgba(0, 0, 0, 0) 0px 2px 4px -1px,
+     rgba(0, 0, 0, 0.1) 0px 4px 5px 0px, 
+     rgba(0, 0, 0, 0.1) 0px 1px 10px 0px;
+}
+
+.MuiOutlinedInput-input {
+    padding: 8.5px 14px !important;
+}
+
+.MuiSelect-selectMenu{
+    text-align: center;
+    font-family: Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+    font-size: 0.875rem !important;
+}
+
+.MuiMenuItem-root{
+    font-family: Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+    font-size: 0.875rem !important;
+}
+
+.MuiPaper-root{
+    width: 48%;
+}
+
+.MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 2px!important;
+}
+
+.MuiTabs-flexContainer{
+    margin-left: 10px;
+}
+
+.MuiCardActionArea-root{
+    margin-top: 30px!important;
+}
+.MuiGrid-spacing-xs-4{
+    margin: 0;
+}
